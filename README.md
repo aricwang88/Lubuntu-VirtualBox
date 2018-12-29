@@ -7,6 +7,8 @@
 - OVA file less than 500 MB
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
-
 [**OPINION**](https://docs.google.com/forms/d/1FHgWDZyQsE8-zDAmjBC0LPR09UpYkPNhy0g67J84Rog)
+
+**GALLERY**
+
+![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
