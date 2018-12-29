@@ -9,3 +9,4 @@
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
 
+[**OPINION**](https://github.com/orgs/Virtual-Machines/teams/virtual-machines/discussions)
