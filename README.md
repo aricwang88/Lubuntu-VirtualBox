@@ -4,7 +4,7 @@
 - Basic python http server included. Example: python3 -m http.server 8080
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - It can be used as a base of development environments, to test software...
-- OVA file less than 500 MB
+- OVA file less than 400 MB
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
