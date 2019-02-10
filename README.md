@@ -14,3 +14,4 @@
 # GALLERY
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
+![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
