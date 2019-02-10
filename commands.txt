@@ -1,0 +1,16 @@
+#General#
+
+#Clean apt packages and remove downloaded lists
+sudo apt-get autoremove --purge && sudo apt-get autoclean && sudo apt-get clean && sudo rm -rf /var/lib/apt/lists/*
+
+#Open file manager with superuser privileges
+sudo pcmanfm
+
+#Useful before export virtual machine to reduce file size. From root recovery console (click ESC on boot): Remount disk readonly, compact it with zerofree and shutdown machine
+mount -o remount,ro /dev/sda1 && zerofree -v /dev/sda1 && shutdown -h now
+
+#Monitor free memory
+watch free -m
+
+#Python http server on port 8080
+python3 -m http.server 8080
