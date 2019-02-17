@@ -1,5 +1,6 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
 - Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
+- Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
 - Basic python http server included. Example: python3 -m http.server 8080
